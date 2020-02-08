@@ -23,4 +23,6 @@
 hs_err_pid*
 
 /medician_distributed_system/target/
+
+
 /medician_distributed_system_backend/target/
